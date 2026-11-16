@@ -1,0 +1,17 @@
+# Rendered output
+out/
+dash.png
+test.png
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Third-party Kindle downloads kept alongside the project (not ours to publish)
+dashboard/
+kindle-dash-*/
+kindle-k4-jailbreak-*/
+kindle-usbnetwork-*/
+
+.DS_Store
